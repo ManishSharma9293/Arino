@@ -31,7 +31,7 @@ export default function First() {
               src="public/service_2.jpeg"
               alt=""
             />{" "}
-            React.js Development
+            Reactjs Development
           </SwiperSlide>
           <SwiperSlide>
             <img
